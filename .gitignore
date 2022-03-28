@@ -50,13 +50,6 @@ Thumbs.db
 /*/__pycache__
 *.jpg
 *.jpeg
+*.db
 .env
 .localenv
-/images
-/dataset/*/*
-/dataset/*.txt
-/model/*.h5
-/data/*/*
-/upload/*.jpg
-/upload/*.png
-/upload/*.jpeg
